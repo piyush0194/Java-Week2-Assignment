@@ -1,2 +1,12 @@
-# Java-Week2-Assignment
-Week 2 Java Internship Assignment - Skill Nexis
+# Java Week 2 Assignment
+
+## Programs
+- Student Class
+- Bank Account
+- Vehicle Inheritance
+- Shape Interface
+- Method Overloading
+- Method Overriding
+
+## Mini Project
+Library Management System
